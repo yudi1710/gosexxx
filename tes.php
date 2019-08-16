@@ -1,3 +1,4 @@
+<?php
 error_reporting(0);
 $headers = array();
 $headers[] = 'User-Agent: Spotify/8.4.98 Android/25 (ASUS_X00HD)';

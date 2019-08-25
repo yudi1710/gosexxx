@@ -140,5 +140,4 @@ function gmail_dot_trick($str)
         return $result; 
     } 
     return array($str); 
-}
-?>
+
